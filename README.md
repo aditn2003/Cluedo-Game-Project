@@ -171,9 +171,7 @@ Cluedo-Game-Project/
 ├── board.py          # Board display and rendering
 ├── ai_player.py      # AI player decision making
 ├── ai_knowledge.py   # AI knowledge base and deduction engine
-├── requirements.txt  # Dependencies (none needed!)
-├── README.md         # This file
-└── DEVELOPMENT_PLAN.md  # Development documentation
+└── README.md         # This file
 ```
 
 ### Module Descriptions
