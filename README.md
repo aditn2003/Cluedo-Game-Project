@@ -178,12 +178,12 @@ Cluedo-Game-Project/
 
 | File | Purpose | Lines |
 |------|---------|-------|
-| `main.py` | Entry point, starts game | ~25 |
-| `cluedo.py` | Game logic, turn handling, suggestions | ~650 |
-| `data.py` | Constants: characters, weapons, rooms | ~50 |
-| `board.py` | Console board display | ~125 |
-| `ai_player.py` | AI decision making | ~470 |
-| `ai_knowledge.py` | AI knowledge tracking & deduction | ~535 |
+| `main.py` | Entry point, starts game |
+| `cluedo.py` | Game logic, turn handling, suggestions |
+| `data.py` | Constants: characters, weapons, rooms |
+| `board.py` | Console board display |
+| `ai_player.py` | AI decision making | 
+| `ai_knowledge.py` | AI knowledge tracking & deduction |
 
 ---
 
