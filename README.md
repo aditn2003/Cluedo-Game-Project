@@ -76,7 +76,7 @@ Other players check their cards clockwise. First player with a matching card sho
 ### Accusations
 - Can be made once per game, anytime during your turn
 - Guess the **character**, **weapon**, and **room**
-- **Correct** = YOU WIN! 🎉
+- **Correct** = YOU WIN!!!
 - **Wrong** = You're eliminated (but can still refute)
 
 ---
