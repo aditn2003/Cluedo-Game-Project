@@ -76,7 +76,7 @@ Other players check their cards clockwise. First player with a matching card sho
 ### Accusations
 - Can be made once per game, anytime during your turn
 - Guess the **character**, **weapon**, and **room**
-- **Correct** = YOU WIN! 🎉
+- **Correct** = YOU WIN!!!
 - **Wrong** = You're eliminated (but can still refute)
 
 ---
@@ -105,8 +105,8 @@ The AI uses logical deduction with a knowledge base:
  1 | .  .  .  .  .  .  .  .  .  .  .
  2 | .  .  .  .  .  .  .  .  .  .  .
  3 | .  .  .  .  .  .  .  .  .  .  .
- 4 | l  .  .  .  .  B  .  .  .  .  D
- 5 | .  .  .  .  .  .  .  .  .  .  .
+ 4 | .  .  .  .  .  .  .  .  .  .  .
+ 5 | l  .  .  .  .  B  .  .  .  .  D
  6 | .  .  .  .  .  .  .  .  .  .  .
  7 | .  .  .  .  .  .  .  .  .  .  .
  8 | .  .  .  .  .  .  .  .  .  .  .
@@ -171,21 +171,19 @@ Cluedo-Game-Project/
 ├── board.py          # Board display and rendering
 ├── ai_player.py      # AI player decision making
 ├── ai_knowledge.py   # AI knowledge base and deduction engine
-├── requirements.txt  # Dependencies (none needed!)
-├── README.md         # This file
-└── DEVELOPMENT_PLAN.md  # Development documentation
+└── README.md         # This file
 ```
 
 ### Module Descriptions
 
 | File | Purpose | Lines |
 |------|---------|-------|
-| `main.py` | Entry point, starts game | ~25 |
-| `cluedo.py` | Game logic, turn handling, suggestions | ~650 |
-| `data.py` | Constants: characters, weapons, rooms | ~50 |
-| `board.py` | Console board display | ~125 |
-| `ai_player.py` | AI decision making | ~470 |
-| `ai_knowledge.py` | AI knowledge tracking & deduction | ~535 |
+| `main.py` | Entry point, starts game |
+| `cluedo.py` | Game logic, turn handling, suggestions |
+| `data.py` | Constants: characters, weapons, rooms |
+| `board.py` | Console board display |
+| `ai_player.py` | AI decision making | 
+| `ai_knowledge.py` | AI knowledge tracking & deduction |
 
 ---
 
